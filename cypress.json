@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://www.musala.com/",
+  "testFiles": "**/*.feature",
+  "defaultCommandTimeout": 10000,
+  "env": {
+    "city":"YourVarValue"
+  }
+
+}
